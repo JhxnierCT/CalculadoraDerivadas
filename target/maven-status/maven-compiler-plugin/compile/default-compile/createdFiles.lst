@@ -1,0 +1,5 @@
+com\mycompany\calculadoraderivadaslognaturales\CalculadoraDerivadasLogNaturales.class
+com\mycompany\calculadoraderivadaslognaturales\modelo\Modelo.class
+com\mycompany\calculadoraderivadaslognaturales\vista\Vista2.class
+com\mycompany\calculadoraderivadaslognaturales\controlador\Controlador$ListenerParaBotonCalcular.class
+com\mycompany\calculadoraderivadaslognaturales\controlador\Controlador.class
